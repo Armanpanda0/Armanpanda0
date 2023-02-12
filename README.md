@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://codepen.io/arman0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arman0" height="30" width="40" /></a>
 <a href="https://twitter.com/pandaarman0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pandaarman0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arman (loren) panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arman (loren) panda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/arman-panda-615133235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/arman-panda-615133235" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/arman panda3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arman panda3" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/armanpandahacke1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="armanpandahacke1" height="30" width="40" /></a>
 </p>
