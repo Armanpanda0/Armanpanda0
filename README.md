@@ -1,7 +1,7 @@
 ![](https://github.com/Armanpanda0/Armanpanda0/blob/main/Green%20and%20Black%20Modern%20Technology%20YouTube%20Channel%20Art.png)
 
 
-##Body section Starts
+##Body section Starts.
 
 <h1 align="center">Hi 👋, I'm Arman Panda</h1>
 <h3 align="center">hi, I'm Arman Panda, a impassioned autodidact full-stack web developer software engineer from india. my passion for software lies with dreaming up ideas and making.</h3>
@@ -48,10 +48,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armanpanda0&" alt="armanpanda0" /></p>
 
-##Body Section Ends......
+##Body Section Ends.....
 
 
 
 
-##HT animation upgradetion.....
+##HT animation upgradetion....
 ![snake gif](https://github.com/Armanpanda0/Armanpanda0/blob/output/github-contribution-grid-snake.gif)
